@@ -14,3 +14,5 @@ const PrintParametterName =(message,number) =>{
 // printParametterName('Tanvir Hossain',50);
 PrintParametterName('Rakib Hossain',70);
 // printParametterName('Tanvir Hossain',50);
+
+console.log('Hello World');
